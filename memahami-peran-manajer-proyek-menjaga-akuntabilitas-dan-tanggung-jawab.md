@@ -2,7 +2,6 @@
 
 Sekarang kita telah mengidentifikasi apa itu proyek, inisiatif sementara yang disepakati, direncanakan, dan dilaksanakan untuk mencapai tujuan tertentu. Setelah proyek telah dipilih oleh dewan direksi sebagai inisiatif saat ini, siapa yang akan dipertanggungjawabkan untuk memastikan bahwa eksekusi proyek tersebut berhasil? Tentu saja, jawabannya adalah manajer proyek.
 
-\
 Manajer proyek adalah tokoh sentral dalam menjalankan sebuah proyek. Mereka adalah individu yang bertanggung jawab atas perencanaan, pengorganisasian, pengelolaan, dan pengendalian semua aspek dari awal hingga akhir proyek. Bayangkan sebuah proyek konstruksi bangunan pencakar langit yang megah. Manajer proyek adalah orang yang akan mengoordinasikan semua tim, mulai dari arsitek hingga kontraktor, memastikan bahwa semua batas waktu terpenuhi, anggaran terjaga, dan kualitas hasil akhir sesuai dengan standar yang diharapkan.
 
 Peran manajer proyek bukanlah tugas yang mudah. Mereka harus memiliki keterampilan kepemimpinan yang kuat untuk menginspirasi dan memotivasi tim, serta kemampuan untuk mengelola konflik yang mungkin timbul di antara anggota tim yang berbeda-beda. Sebagai contoh, dalam proyek pengembangan perangkat lunak, manajer proyek harus mampu mengelola tim pengembang, desainer UI/UX, dan tester dengan cara yang memaksimalkan produktivitas dan mengurangi hambatan komunikasi.
